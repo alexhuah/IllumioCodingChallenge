@@ -8,7 +8,7 @@
     * Program is able to compile and run perfectly fine. No errors should arise.
 3. My Implementation Notes
     * I currently tested the solution manually given a NAT.txt and FLOW.txt file through command-line arguments.
-    * I chose to use a map due to it's efficiency in insertion and searching
+    * I chose to use a map due to it's efficiency in insertion (O(1)) and searching (O(logn)).
     * Overloaded less than operator to fit my custom key class
     * I would've refined the implementation by using regex to do string manipulation and by actually fixing the bug for the pair so that it outputs properly
     * It would've been more defined because regex is much more efficient when doing string manipulation and fixing the bug would make the program run correctly. 
