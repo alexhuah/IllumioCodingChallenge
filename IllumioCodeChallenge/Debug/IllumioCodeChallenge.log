@@ -1,0 +1,4 @@
+﻿  NAT.cpp
+C:\Users\Alex Hua\source\repos\IllumioCodeChallenge\IllumioCodeChallenge\NAT.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Alex Hua\source\repos\IllumioCodeChallenge\IllumioCodeChallenge\NAT.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  IllumioCodeChallenge.vcxproj -> C:\Users\Alex Hua\source\repos\IllumioCodeChallenge\Debug\IllumioCodeChallenge.exe
